@@ -1,1 +1,1 @@
-# steam_recommender
+# A Recommender for Steam Games
